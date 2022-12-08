@@ -1,0 +1,12 @@
+ipywidgets==7.7.1
+mlxtend
+matplotlib
+plotly
+seaborn
+numpy
+pandas
+torch
+torchvision==0.13.1
+tqdm==4.64.0
+streamlit
+datetime
