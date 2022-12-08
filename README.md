@@ -7,3 +7,5 @@ O banco de dados foi criado através do Sparkov e contém transações em cartõ
 Para usar o arquivo "1 - Introdução".py, basta roda-lo em uma aplicação normal do streamlit! Não é necessário baixar mais nada!
 ### Para usar o arquivo do jupyter, baixe os dados em: <https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTest.csv>
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)]()
+
